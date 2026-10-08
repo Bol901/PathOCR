@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+.pathocr/
+.pathocr-*/
+tests/tmp*/
+.linux-build/
+vendor/runtime/
+vendor/models/
+*.gguf
+*.gguf.part
+.env
+.env.*
+!.env.example
